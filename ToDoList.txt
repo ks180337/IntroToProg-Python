@@ -1,0 +1,3 @@
+Clean,High
+Do homework,High
+Watch TV,Low
